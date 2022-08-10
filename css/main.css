@@ -1,0 +1,57 @@
+ html {
+     background-image: url("../images/PUOR.jpg");
+     height: 150%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     position: relative;
+ }
+
+ h1 {
+     color: white;
+ }
+
+ p {
+     color: white;
+ }
+
+ .hero-text {
+     color: white;
+ }
+
+ body text {
+     color: white;
+ }
+
+ h2 {
+     color: white;
+
+ }
+
+ h3 {
+     color: white;
+
+ }
+
+ .gallery {
+     color: white;
+ }
+
+ label {
+     color: white;
+
+ }
+
+ div {
+     color: white;
+
+ }
+
+ ol {
+     color: white;
+
+ }
+
+ html a {
+     color: blueviolet
+ }
